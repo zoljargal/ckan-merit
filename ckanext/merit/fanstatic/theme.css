@@ -13,6 +13,8 @@
 
 @media (min-width: 768px){
   .hero {
-      background: url(bgmerit.jpg);
+      background: url(/bgmerit.jpg);
+      background-size: cover;
+      background-position: center center;
   }
 }
