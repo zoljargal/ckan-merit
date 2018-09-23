@@ -4,7 +4,7 @@ from ckan.lib.plugins import DefaultTranslation
 
 
 class MeritPlugin(plugins.SingletonPlugin):
-    plugins.implements(plugins.ITranslation)
+    plugins.implements(plugins.ITranslation, inherit=True)
     plugins.implements(plugins.IConfigurer)
 
     # IConfigurer
