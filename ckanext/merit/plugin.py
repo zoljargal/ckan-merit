@@ -1,8 +1,10 @@
 import ckan.plugins as plugins
 import ckan.plugins.toolkit as toolkit
+from ckan.lib.plugins import DefaultTranslation
 
 
 class MeritPlugin(plugins.SingletonPlugin):
+    plugins.implements(plugins.ITranslation)
     plugins.implements(plugins.IConfigurer)
 
     # IConfigurer
