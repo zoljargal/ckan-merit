@@ -20,69 +20,54 @@ msgstr ""
 "Generated-By: Babel 2.3.4\n"
 
 
-#: ckanext/theme/templates/footer.html:13
-msgid "Contact us"
-msgstr "Холбоо барих"
-
-
-#: ckanext/theme/templates/header.html:16
-msgid "Components"
-msgstr "Бүрэлдэхүүн хэсгүүд"
-
-#: ckanext/theme/templates/page.html:34
-msgid "Keywords"
-msgstr "Түлхүүр үгс"
-
-#: ckanext/theme/templates/organization/read.html:5
-#: ckanext/theme/templates/page.html:59
 msgid "Organization"
-msgstr "Бүрэлдэхүүн хэсэг"
+msgstr "Component"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "Бүрэлдэхүүн хэсгүүд"
+msgstr "Components"
 
 msgid "Organization not found"
-msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
+msgstr "Component not found"
 
 msgid "Organization was not found."
-msgstr "Бүрэлдэхүүн хэсэг олдсонгүй."
+msgstr "Component was not found."
 
 msgid "{number} organization found for \"{query}\":{number} organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд {number} -н бүрэлдэхүүн хэсэг олдлоо"
+msgstr "{number} component found for \"{query}\":{number} components found for \"{query}\""
 
 msgid "No organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд бүрэлдэхүүн хэсэг олдсонгүй"
+msgstr "No components found for \"{query}\""
 
 msgid "{number} organizations found"
-msgstr "{number} бүрэлдэхүүн хэсэг олдлоо"
+msgstr "{number} components found"
 
 msgid "No organizations found"
-msgstr "Ямарч бүрэлдэхүүн хэсэг олдсонгүй"
+msgstr "No components found"
 
 msgid "organization"
-msgstr "бүрэлдэхүүн хэсэг"
+msgstr "component"
 
 msgid "Organization does not exist"
-msgstr "Ийм бүрэлдэхүүн хэсэг байхгүй"
+msgstr "Component does not exist"
 
 msgid "organizations"
-msgstr "бүрэлдэхүүн хэсэг"
+msgstr "components"
 
 msgid "This organization has no datasets associated to it"
-msgstr "Тус бүрэлдэхүүн хэсэг хамааралтай өгөгдлийн бүрдэл алга байна"
+msgstr "This component has no datasets associated to it"
 
 msgid "Search organizations..."
-msgstr "Бүрэлдэхүүн хэсэг хайх..."
+msgstr "Search components..."
 
 msgid "There are currently no organizations for this site"
-msgstr "Одоогоор тус сайтад ямар ч бүрэлдэхүүн хэсэг байхгүй байна."
+msgstr "There are currently no components for this site."
 
 msgid "What are Organizations?"
-msgstr "Бүрэлдэхүүн хэсэг гэж юу вэ?"
+msgstr "What are Components?"
 
 msgid "My Organization"
-msgstr "Миний бүрэлдэхүүн хэсэг"
+msgstr "My Component"
 
 msgid "Knowledge portal"
 msgstr "Мэдлэгийн Портал"
