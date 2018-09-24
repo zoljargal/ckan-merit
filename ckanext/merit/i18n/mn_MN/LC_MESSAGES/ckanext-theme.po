@@ -1,0 +1,118 @@
+# Mongolian (Mongolia) translations for ckanext-theme.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the ckanext-theme
+# project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ckanext-theme 0.0.1\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-09-23 08:11-0400\n"
+"PO-Revision-Date: 2018-09-23 08:12-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: mn_MN\n"
+"Language-Team: mn_MN <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+
+#: ckanext/theme/templates/footer.html:13
+msgid "Contact us"
+msgstr "Холбоо барих"
+
+
+#: ckanext/theme/templates/header.html:16
+msgid "Divisions"
+msgstr "Салбарууд"
+
+#: ckanext/theme/templates/page.html:34
+msgid "Keywords"
+msgstr "Түлхүүр үгс"
+
+#: ckanext/theme/templates/organization/read.html:5
+#: ckanext/theme/templates/page.html:59
+msgid "Organization"
+msgstr "Салбар"
+
+#: ckanext/theme/templates/home/layout1.html:21
+msgid "All Divisions"
+msgstr "Бүх салбар"
+
+#: ckanext/theme/templates/home/layout1.html:28
+msgid "Latest datasets"
+msgstr "Шинээр нэмэгдсэн өгөгдөл"
+
+#: ckanext/theme/templates/home/layout1.html:54
+msgid "Latest updates"
+msgstr "Сүүлд шинэчилсэн өгөгдөл"
+
+#: ckanext/theme/templates/organization/index.html:5
+msgid "Organizations"
+msgstr "Салбарууд"
+
+msgid "Organization"
+msgstr "Салбар"
+
+msgid "Organization not found"
+msgstr "Салбар олдсонгүй"
+
+msgid "Organization was not found."
+msgstr "Салбар олдсонгүй."
+
+msgid "{number} organization found for \"{query}\":{number} organizations found for \"{query}\""
+msgstr "\"{query}\" -н үр дүнд {number} -н салбар олдлоо"
+
+msgid "No organizations found for \"{query}\""
+msgstr "\"{query}\" -н үр дүнд салбар олдсонгүй"
+
+msgid "{number} organizations found"
+msgstr "{number} салбар олдлоо"
+
+msgid "No organizations found"
+msgstr "Ямарч салбар олдсонгүй"
+
+msgid "organization"
+msgstr "салбар"
+
+msgid "Organization does not exist"
+msgstr "Ийм салбар байхгүй"
+
+msgid "organizations"
+msgstr "салбарууд"
+
+msgid "This organization has no datasets associated to it"
+msgstr "Тус салбарт хамааралтай өгөгдлийн бүрдэл алга байна"
+
+msgid "Search organizations..."
+msgstr "Салбарууд хайх..."
+
+msgid "There are currently no organizations for this site"
+msgstr "Одоогоор тус сайтад ямар ч салбар байхгүй байна."
+
+msgid "Datasets in organization: {group}"
+msgstr "{group} бүлгийн өгөгдлийн бүрдлүүд"
+
+msgid "What are Organizations?"
+msgstr "Салбар гэж юу вэ?"
+
+msgid "My Organization"
+msgstr "Миний салбар"
+
+msgid "Knowledge portal"
+msgstr "Мэдлэгийн Портал"
+
+msgid "Address"
+msgstr "Хаяг"
+
+msgid "Phone"
+msgstr "Утас"
+
+msgid "E-mail address"
+msgstr "Цахим шуудан"
+
+msgid "Project MERIT, 3rd floor, National Times Tower, Khudaldaanii gudamj, 1-r khoroo, Chingeltei duureg, Ulaanbaatar-15160"
+msgstr "MERIT төсөл, Монгол улс, Улаанбаатар-15160, Чингэлтэй дүүрэг, 1-р хороо, Худалдааны гудамж, Нэйшнл Таймс Ньюс Тауэр, 3-р давхар"
