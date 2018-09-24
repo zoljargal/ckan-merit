@@ -26,8 +26,8 @@ msgstr "Холбоо барих"
 
 
 #: ckanext/theme/templates/header.html:16
-msgid "Divisions"
-msgstr "Салбарууд"
+msgid "Components"
+msgstr "Бүрэлдэхүүн хэсгүүд"
 
 #: ckanext/theme/templates/page.html:34
 msgid "Keywords"
@@ -36,71 +36,53 @@ msgstr "Түлхүүр үгс"
 #: ckanext/theme/templates/organization/read.html:5
 #: ckanext/theme/templates/page.html:59
 msgid "Organization"
-msgstr "Салбар"
-
-#: ckanext/theme/templates/home/layout1.html:21
-msgid "All Divisions"
-msgstr "Бүх салбар"
-
-#: ckanext/theme/templates/home/layout1.html:28
-msgid "Latest datasets"
-msgstr "Шинээр нэмэгдсэн өгөгдөл"
-
-#: ckanext/theme/templates/home/layout1.html:54
-msgid "Latest updates"
-msgstr "Сүүлд шинэчилсэн өгөгдөл"
+msgstr "Бүрэлдэхүүн хэсэг"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "Салбарууд"
-
-msgid "Organization"
-msgstr "Салбар"
+msgstr "Бүрэлдэхүүн хэсгүүд"
 
 msgid "Organization not found"
-msgstr "Салбар олдсонгүй"
+msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
 
 msgid "Organization was not found."
-msgstr "Салбар олдсонгүй."
+msgstr "Бүрэлдэхүүн хэсэг олдсонгүй."
 
 msgid "{number} organization found for \"{query}\":{number} organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд {number} -н салбар олдлоо"
+msgstr "\"{query}\" -н үр дүнд {number} -н бүрэлдэхүүн хэсэг олдлоо"
 
 msgid "No organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд салбар олдсонгүй"
+msgstr "\"{query}\" -н үр дүнд бүрэлдэхүүн хэсэг олдсонгүй"
 
 msgid "{number} organizations found"
-msgstr "{number} салбар олдлоо"
+msgstr "{number} бүрэлдэхүүн хэсэг олдлоо"
 
 msgid "No organizations found"
-msgstr "Ямарч салбар олдсонгүй"
+msgstr "Ямарч бүрэлдэхүүн хэсэг олдсонгүй"
 
 msgid "organization"
-msgstr "салбар"
+msgstr "бүрэлдэхүүн хэсэг"
 
 msgid "Organization does not exist"
-msgstr "Ийм салбар байхгүй"
+msgstr "Ийм бүрэлдэхүүн хэсэг байхгүй"
 
 msgid "organizations"
-msgstr "салбарууд"
+msgstr "бүрэлдэхүүн хэсэг"
 
 msgid "This organization has no datasets associated to it"
-msgstr "Тус салбарт хамааралтай өгөгдлийн бүрдэл алга байна"
+msgstr "Тус бүрэлдэхүүн хэсэг хамааралтай өгөгдлийн бүрдэл алга байна"
 
 msgid "Search organizations..."
-msgstr "Салбарууд хайх..."
+msgstr "Бүрэлдэхүүн хэсэг хайх..."
 
 msgid "There are currently no organizations for this site"
-msgstr "Одоогоор тус сайтад ямар ч салбар байхгүй байна."
-
-msgid "Datasets in organization: {group}"
-msgstr "{group} бүлгийн өгөгдлийн бүрдлүүд"
+msgstr "Одоогоор тус сайтад ямар ч бүрэлдэхүүн хэсэг байхгүй байна."
 
 msgid "What are Organizations?"
-msgstr "Салбар гэж юу вэ?"
+msgstr "Бүрэлдэхүүн хэсэг гэж юу вэ?"
 
 msgid "My Organization"
-msgstr "Миний салбар"
+msgstr "Миний бүрэлдэхүүн хэсэг"
 
 msgid "Knowledge portal"
 msgstr "Мэдлэгийн Портал"
