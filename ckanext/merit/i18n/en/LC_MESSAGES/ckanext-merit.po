@@ -69,21 +69,5 @@ msgstr "What are Components?"
 msgid "My Organization"
 msgstr "My Component"
 
-msgid "Knowledge portal"
-msgstr "Мэдлэгийн Портал"
-
-msgid "Address"
-msgstr "Хаяг"
-
-msgid "Phone"
-msgstr "Утас"
-
-msgid "E-mail address"
-msgstr "Цахим шуудан"
-
-msgid "Web site"
-msgstr "Веб хуудас"
-
-
-msgid "Project MERIT, 3rd floor, National Times Tower, Khudaldaanii gudamj, 1-r khoroo, Chingeltei duureg, Ulaanbaatar-15160, Mongolia"
-msgstr "MERIT төсөл, Монгол улс, Улаанбаатар-15160, Чингэлтэй дүүрэг, 1-р хороо, Худалдааны гудамж, Нэйшнл Таймс Ньюс Тауэр, 3-р давхар"
+msgid "Add Organization"
+msgstr "Add Component"
