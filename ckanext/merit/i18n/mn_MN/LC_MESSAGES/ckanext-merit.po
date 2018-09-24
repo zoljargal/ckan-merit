@@ -48,14 +48,18 @@ msgstr "Бүрэлдэхүүн хэсэг олдсонгүй"
 msgid "Organization was not found."
 msgstr "Бүрэлдэхүүн хэсэг олдсонгүй."
 
-msgid "{number} organization found for \"{query}\":{number} organizations found for \"{query}\""
-msgstr "\"{query}\" -н үр дүнд {number} -н бүрэлдэхүүн хэсэг олдлоо"
+msgid "{number} organization found for \"{query}\""
+msgid_plural "{number} organizations found for \"{query}\""
+msgstr[0] "\"{query}\"-д {number} бүрэлдэхүүн хэсэг олдлоо"
+msgstr[1] "\"{query}\"-д {number} бүрэлдэхүүн хэсэг олдлоо"
+
+msgid "{number} organization found"
+msgid_plural "{number} organizations found"
+msgstr[0] "{number} бүрэлдэхүүн хэсэг олдлоо"
+msgstr[1] "{number} бүрэлдэхүүн хэсэг олдлоо"
 
 msgid "No organizations found for \"{query}\""
 msgstr "\"{query}\" -н үр дүнд бүрэлдэхүүн хэсэг олдсонгүй"
-
-msgid "{number} organizations found"
-msgstr "{number} бүрэлдэхүүн хэсэг олдлоо"
 
 msgid "No organizations found"
 msgstr "Ямарч бүрэлдэхүүн хэсэг олдсонгүй"

@@ -38,13 +38,13 @@ msgid_plural "{number} organizations found for \"{query}\""
 msgstr[0] "{number} component found for \"{query}\""
 msgstr[1] "{number} components found for \"{query}\""
 
-msgid "No organizations found for \"{query}\""
-msgstr "No components found for \"{query}\""
-
 msgid "{number} organization found"
 msgid_plural "{number} organizations found"
 msgstr[0] "{number} component found"
 msgstr[1] "{number} components found"
+
+msgid "No organizations found for \"{query}\""
+msgstr "No components found for \"{query}\""
 
 msgid "No organizations found"
 msgstr "No components found"
