@@ -39,8 +39,8 @@ msgstr "{number} component found for \"{query}\":{number} components found for \
 msgid "No organizations found for \"{query}\""
 msgstr "No components found for \"{query}\""
 
-msgid "{number} organizations found"
-msgstr "{number} components found"
+msgid "{number} organization found:{number} organizations found"
+msgstr "{number} division found:{number} divisions found"
 
 msgid "No organizations found"
 msgstr "No components found"
