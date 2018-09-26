@@ -4,8 +4,24 @@
       <div class="row">
         <div class="col-md-6 ">
           <div class="row">
-            <div class="col-md-6"><a href="http://portal.sesmim.mn/" target="_blank"><img src="/LOGO2.png"/></a></div>
-            <div class="col-md-6"><a href="http://portal.igg.ac.mn/" target="_blank"><img src="/LOGO4.png"/></a></div>
+            <div class="col-md-6">
+              <a href="http://portal.sesmim.mn/" target="_blank">
+                {% if h.lang()=='mn_MN' %}
+                <img src="/sesmim-footer-logo-mn.png"/>
+                {% else %}
+                <img src="/sesmim-footer-logo-en.png"/>
+                {% endif %}
+              </a>
+            </div>
+            <div class="col-md-6">
+                <a href="http://portal.merit.mn/" target="_blank">
+                  {% if h.lang()=='mn_MN' %}
+                  <img src="/igg-footer-logo-mn.png"/>
+                  {% else %}
+                  <img src="/igg-footer-logo-en.png"/>
+                  {% endif %}
+                </a>
+              </div>
           </div>
         </div>
         <div class="col-md-6 attribution">
@@ -32,7 +48,7 @@
       <div class="row">
           
           <div class="col-md-6">
-            <a href="https://www.international.gc.ca/" target="_blank"><img src="/LOGO3.png" style="width: 100%"/></a>
+            <a href="https://www.international.gc.ca/" target="_blank"><img src="/gac-logo.png" style="width: 100%"/></a>
           </div>
           <div class="col-md-6">
 
