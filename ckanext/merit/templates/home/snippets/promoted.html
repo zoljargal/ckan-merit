@@ -1,7 +1,29 @@
-{% ckan_extends %}
-{% block home_image_content %}
-  <a class="media-image" href="#">
-    <img src="/merit-promoted-image.jpg" alt="Featured image"
-         width="420" height="220" />
-  </a>
-{% endblock %}
+<div class="module-content box">
+  <header>
+      {% if h.lang()=='mn_MN' %}
+      <h1 class="page-heading">МЭРИТ мэдлэгийн порталд тавтай морил</h1>
+      <p>
+            Энэхүү мэдлэгийн порталд МЭРИТ төслийн хүрээнд авч хэрэгжүүлж буй бүх төрлийн зөвлөх үйлчилгээний талаарх мэдээлэл, сургалтын материал, холбогдох гарын авлага, зурагт хуудас, дүрс бичлэг зэргийг нээлттэй байршуулах болно.
+      </p>
+      {% else %}
+      <h1 class="page-heading">Welcome to MERIT knowledge portal</h1>
+      <p>
+            The MERIT project supports responsible resource management aimed at sustainable economic and social development in order to improve the livelihoods of communities in Mongolia. Technical Advisors (TAs) and the MERIT team in Mongolia combine the skills and knowledge to provide strategic support through volunteer assignments to effectively implement best practices, tools and systems adapted to local needs.            
+      </p>
+      <p>
+            This MERIT Knowledge Portal publishes all training and consulting documents, which are prepared by the long term and short term advisors during the project implementation stage in Mongolia
+      </p>
+    {% endif %}
+  </header>
+
+  {% block home_image %}
+    <section class="featured media-overlay hidden-xs">
+      <h2 class="media-heading">{% block home_image_caption %}{{ _("This is a featured section") }}{% endblock %}</h2>
+      {% block home_image_content %}
+        <a class="media-image" href="#">
+                <img src="/merit-promoted-image.jpg" alt="Featured image" width="420" height="220" />
+        </a>
+      {% endblock %}
+    </section>
+  {% endblock %}
+</div>
