@@ -21,127 +21,65 @@ msgstr ""
 
 
 
-msgid "This group has no description"
-msgstr "This thematic area has no description"
-
-msgid "Group"
-msgstr "Thematic area"
-
-msgid "No groups"
-msgstr "No thematic areas"
-
-msgid "Group not found"
-msgstr "Thematic area not found"
-
-msgid "Groups"
-msgstr "Thematic areas"
-
-msgid "Recent changes to CKAN Group:"
-msgstr "Recent changes to CKAN thematic area:"
-
-msgid "Group"
-msgstr "Thematic area"
-
-msgid "Group was not found."
-msgstr "Thematic area was not found."
-
-msgid "Add a Group"
-msgstr "Add a thematic area"
-
-msgid "Add Group"
-msgstr "Add thematic area"
-
-msgid "Search groups..."
-msgstr "Search thematic areas..."
-
-msgid "There are currently no groups for this site"
-msgstr "There are currently no thematic areas for this site"
-
-msgid "Datasets in group: {group}"
-msgstr "Datasets in thematic area: {group}"
-
-msgid "My Group"
-msgstr "My thematic area"
-
-
-msgid "No groups found for \"{query}\""
-msgstr "No thematic areas found for \"{query}\""
-
-msgid "No groups found"
-msgstr "No thematic areas found"
-
-
-msgid "{number} group found for \"{query}\""
-msgid_plural "{number} thematic areas found for \"{query}\""
-msgstr[0] "{number} thematic area found for \"{query}\""
-msgstr[1] "{number} thematic areas found for \"{query}\""
-
-msgid "{number} group found"
-msgid_plural "{number} groups found"
-msgstr[0] "{number} thematic area found"
-msgstr[1] "{number} thematic areas found"
-
-
-msgid "What are Groups?"
-msgstr "What are Thematic area?"
-
-
-
 msgid "Organization"
-msgstr "Group"
+msgstr "Thematic area"
 
 #: ckanext/theme/templates/organization/index.html:5
 msgid "Organizations"
-msgstr "Groups"
+msgstr "Thematic areas"
 
 msgid "Organization not found"
-msgstr "Group not found"
+msgstr "Thematic area not found"
 
 msgid "Organization was not found."
-msgstr "Group was not found."
+msgstr "Thematic area was not found."
 
 msgid "{number} organization found for \"{query}\""
 msgid_plural "{number} organizations found for \"{query}\""
-msgstr[0] "{number} group found for \"{query}\""
-msgstr[1] "{number} groups found for \"{query}\""
+msgstr[0] "{number} thematic area found for \"{query}\""
+msgstr[1] "{number} thematic areas found for \"{query}\""
 
 msgid "{number} organization found"
 msgid_plural "{number} organizations found"
-msgstr[0] "{number} group found"
-msgstr[1] "{number} groups found"
+msgstr[0] "{number} thematic area found"
+msgstr[1] "{number} thematic areas found"
 
 msgid "No organizations found for \"{query}\""
-msgstr "No groups found for \"{query}\""
+msgstr "No thematic areas found for \"{query}\""
 
 msgid "No organizations found"
-msgstr "No groups found"
+msgstr "No thematic areas found"
 
 msgid "organization"
-msgstr "Group"
+msgstr "Thematic area"
 
 msgid "Organization does not exist"
-msgstr "Group does not exist"
+msgstr "Thematic area does not exist"
 
 msgid "organizations"
-msgstr "Groups"
+msgstr "Thematic areas"
 
 msgid "This organization has no datasets associated to it"
-msgstr "This group has no datasets associated to it"
+msgstr "This thematic area has no datasets associated to it"
 
 msgid "Search organizations..."
-msgstr "Search groups..."
+msgstr "Search thematic areas..."
 
 msgid "There are currently no organizations for this site"
-msgstr "There are currently no groups for this site."
+msgstr "There are currently no thematic areas for this site."
 
 msgid "What are Organizations?"
-msgstr "What are groups?"
+msgstr "What are thematic areas?"
 
 msgid "My Organization"
-msgstr "My group"
+msgstr "My thematic area"
 
 msgid "Add Organization"
-msgstr "Add group"
+msgstr "Add thematic area"
+
+msgid "Update Organization"
+msgstr "Update thematic area"
+
 
 msgid "What are Organizations?"
-msgstr "What are Groups?"
+msgstr "What are thematic areas?"
