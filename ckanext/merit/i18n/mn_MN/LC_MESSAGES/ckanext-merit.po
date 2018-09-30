@@ -115,3 +115,6 @@ msgstr "Сэдэв засах"
 
 msgid "My Organization"
 msgstr "Миний сэдэв"
+
+msgid "eg. January 2011 Gold Prices"
+msgstr "Ж-нь: 2011 оны 01 сарын алтны үнэ"
